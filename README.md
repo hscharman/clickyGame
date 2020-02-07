@@ -3,6 +3,8 @@
 ## Description
 Fruit Clicky Game is a basic memory game built with ReactJS, where the object is to click each fruit image no more than once. If you avoid clicking each of the eight fruits more than once, you win the game. If you click one of the images a second time, you lose the game and your score returns to 0. 
 
+To play, visit the deployed version here: https://serene-hollows-75657.herokuapp.com/ 
+
 ## How to Install
 1 - git clone the repo to your local computer
 
