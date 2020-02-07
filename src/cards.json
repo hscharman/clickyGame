@@ -1,0 +1,41 @@
+[{
+  "id": 1,
+  "image": "./assets/images/strawberries.jpg",
+  "clicked": false
+},
+{
+  "id": 2,
+  "image": "./assets/images/bananas.jpg",
+  "clicked": false
+},
+{
+  "id": 3,
+  "image": "./assets/images/apple.jpg",
+  "clicked": false
+},
+{
+  "id": 4,
+  "image": "./assets/images/kiwi.jpg",
+  "clicked": false
+},
+{
+  "id": 5,
+  "image": "./assets/images/orange.jpg",
+  "clicked": false
+},
+{
+  "id": 6,
+  "image": "./assets/images/grapes.jpg",
+  "clicked": false
+},
+{
+  "id": 7,
+  "image": "./assets/images/pear.jpg",
+  "clicked": false
+},
+{
+  "id": 8,
+  "image": "./assets/images/melon.jpg",
+  "clicked": false
+}
+]
